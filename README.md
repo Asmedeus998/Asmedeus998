@@ -1,4 +1,10 @@
-![asmedeus998](https://count.getloli.com/get/@asmedeus998?theme=rule34)
+### View Count
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@asmedeus998?theme=rule34"></a>
+</p>
+
+
+
 <!--
 **Asmedeus998/Asmedeus998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
