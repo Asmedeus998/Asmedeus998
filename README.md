@@ -3,11 +3,8 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@asmedeus998?theme=rule34"></a>
 </p>
 
-<!-- waka-box start -->
- 
-<!-- #### <a href="https://gist.github.com/3173031dd454dbb3fffa6571ae26c1f8" target="_blank">📊Weekly development report</a> -->
-
-<!-- waka-box end -->
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 
 
