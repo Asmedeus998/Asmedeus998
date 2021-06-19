@@ -3,6 +3,9 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@asmedeus998?theme=rule34"></a>
 </p>
 
+[![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=asmedeus998)](https://github.com/Asmedeus998/github-readme-stats)
+
+
  <!-- waka-box start -->
  #### <a href="https://gist.github.com/7a16b91d6c6178b8cf1e458d43945ef9" target="_blank">📊 Weekly development report</a>
  <!-- waka-box end -->
