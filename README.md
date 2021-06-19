@@ -3,7 +3,10 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@asmedeus998?theme=rule34"></a>
 </p>
 
-[![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=asmedeus998)](https://github.com/Asmedeus998/github-readme-stats)
+---
+[![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=asmedeus998&count_private=true&hide=prs,issues&show_icons=true&theme=cobalt))](https://github.com/Asmedeus998/github-readme-stats)
+
+
 
 
  <!-- waka-box start -->
