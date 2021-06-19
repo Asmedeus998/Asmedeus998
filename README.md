@@ -4,6 +4,7 @@
 </p>
 
  <!-- waka-box start -->
+ #### <a href="https://gist.github.com/7a16b91d6c6178b8cf1e458d43945ef9" target="_blank">📊 Weekly development report</a>
  <!-- waka-box end -->
 
 
