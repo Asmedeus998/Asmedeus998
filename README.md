@@ -7,8 +7,12 @@
 
 
  <!-- waka-box start -->
- #### <a href="https://gist.github.com/7a16b91d6c6178b8cf1e458d43945ef9" target="_blank">📊 Weekly development report</a>
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/62b1b49265364e81c24d4e0edc1aabf7" target="_blank">📊 每周工作报告</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
 
 
 
