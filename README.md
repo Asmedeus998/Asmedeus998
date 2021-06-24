@@ -4,7 +4,7 @@
 </p>
 
 ---
-[![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=asmedeus998&count_private=true&hide=prs,issues&show_icons=true&theme=cobalt))](https://github.com/Asmedeus998/github-readme-stats)
+[![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=asmedeus998&count_private=true&hide=prs,issues&show_icons=true&theme=cobalt)](https://github.com/Asmedeus998/github-readme-stats)
 
 
 
