@@ -7,7 +7,7 @@
 [![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=asmedeus998&count_private=true&hide=prs,issues&show_icons=true&theme=cobalt)](https://github.com/Asmedeus998/github-readme-stats)
 
 
-
+Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://kevinjycui.github.io/src/Kevin_Cui_Resume.pdf">Resumé</a><br>
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/62b1b49265364e81c24d4e0edc1aabf7" target="_blank">📊 每周工作报告</a>
