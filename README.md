@@ -10,7 +10,7 @@
 
 
  <!-- waka-box start -->
-<!-- waka-box end -->s
+<!-- waka-box end -->
 
 
 
