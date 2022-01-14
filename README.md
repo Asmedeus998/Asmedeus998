@@ -10,6 +10,11 @@
 
 
  <!-- waka-box start -->
+#### <a href="https://gist.github.com/89900d4ff53ff3bb9e635166fc2117f6" target="_blank">📊 每周工作报告</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
 
