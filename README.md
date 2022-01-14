@@ -10,7 +10,7 @@
 
 
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/a5bdb8de47f72cbc13283af0f95ad2f2" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/89900d4ff53ff3bb9e635166fc2117f6" target="_blank">📊 每周工作报告</a>
 ```text
 Still Gathering Statistics...
 ```
