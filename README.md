@@ -10,11 +10,6 @@
 
 
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/a5bdb8de47f72cbc13283af0f95ad2f2" target="_blank">📊 Weekly Development Report</a>
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
 
