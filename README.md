@@ -8,8 +8,8 @@
 
 
 
+#### <a href="https://gist.github.com/Asmedeus998/a5bdb8de47f72cbc13283af0f95ad2f2" target="_blank">📊 Weekly Development Report</a>
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/Asmedeus998/a5bdb8de47f72cbc13283af0f95ad2f2" target="_blank">📊 每周工作报告</a>
 <!-- waka-box end -->
 
 
