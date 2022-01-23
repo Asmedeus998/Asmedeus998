@@ -14,7 +14,7 @@
 ```text
 Still Gathering Statistics...
 ```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- Powered by https://github.com/Asmedeus998/waka-box-go . -->
 <!-- waka-box end -->
 
 
