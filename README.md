@@ -9,12 +9,7 @@
 
 
 
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/89900d4ff53ff3bb9e635166fc2117f6" target="_blank">📊 Weekly development breakdown</a>
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/Asmedeus998/waka-box-go . -->
+<!-- waka-box start -->
 <!-- waka-box end -->
 
 
